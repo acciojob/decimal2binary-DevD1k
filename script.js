@@ -7,6 +7,5 @@ function threeSum(dec) {
         dec = Math.floor(dec/2);
     }
     return bin;
-  
 }
 module.exports = threeSum;
